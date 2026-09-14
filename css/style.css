@@ -13,6 +13,10 @@ img{
     height: 200px;
 }
 
+nav ul {
+    display:flex;
+}
+
 footer{
     background-color: black;
     
